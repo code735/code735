@@ -1,15 +1,19 @@
-## Total Contributions
 
-[![](https://raw.githubusercontent.com/code735/code735/master/profile-summary-card-output/aura/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Prathmesh
 
-## Top Languages
+<div class="github">
+  <img id="github-streak-stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSaha747&theme=radical"
+    alt="streakstat" />
+</div>
 
-[![](https://raw.githubusercontent.com/code735/code735/master/profile-summary-card-output/aura/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/code735/code735/master/profile-summary-card-output/aura/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div class="github" id="tops">
+  <img id="github-top-langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSaha747&&theme=radical"
+    alt="top_languages" />
+</div>
 
-## Some other Stats
-
-[![](https://raw.githubusercontent.com/code735/code735/master/profile-summary-card-output/aura/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/code735/code735/master/profile-summary-card-output/aura/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-## LinkedIn URL
-<a href="https://www.linkedin.com/in/prathmesh-kumbhar-54287b1a3/">Go to LinkedIn</a>
+<div class="github">
+  <img id="github-stats-card"
+    src="https://github-readme-stats.vercel.app/api?username=AkashSaha747&show_icons=true&theme=radical" alt="stat-card" />
+</div>
