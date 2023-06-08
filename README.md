@@ -21,3 +21,6 @@
   <img id="github-stats-card"
     src="https://github-readme-stats.vercel.app/api?username=AkashSaha747&show_icons=true&theme=radical" alt="stat-card" />
 </div>
+
+# Linkedin
+<a href="https://www.linkedin.com/in/prathmesh-kumbhar-54287b1a3/">Go to LinkedIn</a>
